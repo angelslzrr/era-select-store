@@ -1,16 +1,17 @@
-# React + Vite
+# Era Select Store 🛍️
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Landing page moderna y optimizada para una tienda boutique de artículos para el hogar y novedades, con redirección de pedidos directamente a WhatsApp.
 
-Currently, two official plugins are available:
+## 🚀 Metodología de Desarrollo: AI-Driven Workflow
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Este proyecto fue construido utilizando **Vibecoding y Orquestación de Agentes** a través de Antigravity IDE. Mi rol en el proyecto se centró en la arquitectura y dirección técnica:
+* Levantamiento de requerimientos y definición del producto (PRD, Design Docs).
+* Ingeniería de prompts avanzada para delegar la construcción de componentes a agentes impulsados por Claude Sonnet y Gemini Flash.
+* Integración de directrices de UI/UX (filosofía de motion de Emil Kowalski y espaciado Impeccable).
+* QA técnico, revisión de linter y auditorías de compilación.
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the Oxlint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## 🛠️ Tech Stack & Optimizaciones
+* **Frontend:** React, Vite, Tailwind CSS.
+* **Performance:** Conversión automatizada de todo el catálogo fotográfico a formato WebP (reducción del 94% del peso).
+* **UI/UX:** Diseño asimétrico (Bento Grid), renderizado condicional de precios y soporte responsive total.
+* **SEO:** Inyección de Meta Tags y Open Graph para compartir enlaces con formato enriquecido.
